@@ -14,3 +14,6 @@ Name : Shriman Boralkar , Domain : Video Editing .
 Name: Shreeyash Deo - Technical
 Name:Vedant Jaiswal 
 Domain:Technical
+
+Name : Vishwajeet Surve
+Domain : Curation
